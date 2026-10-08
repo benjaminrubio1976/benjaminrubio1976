@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    xmlns:benjamin_Javier_Rubio="urn:benjamin-javier-rubio:curriculum"
+    targetNamespace="urn:benjamin-javier-rubio:curriculum"
+    elementFormDefault="qualified">
+
+    <xs:element name="curriculum">
+        <xs:complexType>
+            <xs:sequence>
+
+                <xs:element name="datos_personales">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="nombre" type="xs:string"/>
+                            <xs:element name="apellidos" type="xs:string"/>
+                            <xs:element name="email" type="xs:string"/>
+                            <xs:element name="telefono" type="xs:string"/>
+                            <xs:element name="localidad" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="experiencia_profesional">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="experiencia" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="empresa" type="xs:string"/>
+                                        <xs:element name="puesto" type="xs:string"/>
+                                        <xs:element name="inicio" type="xs:string"/>
+                                        <xs:element name="final" type="xs:string"/>
+                                        <xs:element name="horas" type="xs:positiveInteger"/>
+                                        <xs:element name="tareas" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="formacion">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="formacion_academica" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="centro" type="xs:string"/>
+                                        <xs:element name="titulacion" type="xs:string"/>
+                                        <xs:element name="inicio" type="xs:string"/>
+                                        <xs:element name="final" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="idiomas">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="idioma" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="nombre" type="xs:string"/>
+                                        <xs:element name="nivel" type="xs:string"/>
+                                    </xs:sequence>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+                <xs:element name="hobbies">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="hobby"
+                                        type="xs:string"
+                                        maxOccurs="unbounded"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+</xs:schema>
