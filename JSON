@@ -1,0 +1,60 @@
+{
+  "nombre": "Benjamin Rubio Troncoso",
+  "ubicacion": "Valencia, España",
+  "telefono": "[añadir teléfono]",
+  "correo": "[añadir correo]",
+  "perfil": "Soy estudiante de primero de ASIR y antes he estudiado SMR. Me interesa aprender más sobre sistemas, redes y mantenimiento de ordenadores. Busco una oportunidad para practicar lo que aprendo en clase.",
+  "formacion": [
+    {
+      "estudios": "Grado Superior en Administración de Sistemas Informáticos en Red",
+      "curso": "1.º",
+      "inicio": "Septiembre de 2026",
+      "estado": "En curso"
+    },
+    {
+      "estudios": "Sistemas Microinformáticos y Redes",
+      "periodo": "Anterior a ASIR"
+    }
+  ],
+  "conocimientos": [
+    "Instalación básica de Windows y Ubuntu Server",
+    "Máquinas virtuales con VirtualBox",
+    "Configuración básica de redes con Cisco Packet Tracer",
+    "Prácticas con Apache, SSH, DNS y LDAP",
+    "Páginas web sencillas con HTML, CSS y JavaScript",
+    "WordPress y Divi",
+    "Scripts básicos con PowerShell",
+    "Uso básico de Visual Studio Code",
+    "Instalación de discos SSD"
+  ],
+  "proyectos": [
+    {
+      "nombre": "BoostPC",
+      "tipo": "Proyecto final de SMR",
+      "descripcion": "Proyecto de una empresa de informática con una página web, catálogo y contacto. También preparé una propuesta de red, seguridad y copias de seguridad."
+    },
+    {
+      "nombre": "Web escolar",
+      "tipo": "Proyecto de clase",
+      "descripcion": "Página web hecha con WordPress y Divi, con secciones para las distintas etapas educativas."
+    }
+  ],
+  "idiomas": [
+    {
+      "idioma": "Español",
+      "nivel": "Nativo"
+    },
+    {
+      "idioma": "Inglés",
+      "nivel": "A2 certificado",
+      "observacion": "Actualmente estudio en una academia para mejorar."
+    }
+  ],
+  "aficiones": [
+    "Aprender programación",
+    "Crear páginas web",
+    "Conocer y mejorar componentes de ordenadores",
+    "Videojuegos",
+    "Gimnasio, calistenia y natación"
+  ]
+}
