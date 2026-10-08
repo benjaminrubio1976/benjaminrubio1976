@@ -1,52 +1,59 @@
-# Benjamin Rubio Troncoso
-
-**Estudiante de 1.º de ASIR**
-
-- Ubicación: Valencia
-- Teléfono: [añadir teléfono]
-- Correo electrónico: [añadir correo]
+# Benjamin Javier Rubio
 
 ## Sobre mí
 
-Soy estudiante de primero de Administración de Sistemas Informáticos en Red. Antes he estudiado Sistemas Microinformáticos y Redes. Me interesa la informática, especialmente los sistemas, las redes y el mantenimiento de ordenadores. Quiero seguir aprendiendo y practicar lo que estudio en clase.
+Soy estudiante de primero de ASIR (Administración de Sistemas Informáticos en Red) en CEAC. Antes estudié SMR (Sistemas Microinformáticos y Redes) en AulaCampus, desde septiembre de 2024 hasta junio de 2026.
 
-## Formación
+Me interesa aprender más sobre los sistemas, las redes y los componentes de los ordenadores. También estoy empezando a aprender Python.
 
-- **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).**
-  Primer curso, en curso desde septiembre de 2026.
-- **Formación en Sistemas Microinformáticos y Redes (SMR).**
-  Estudios anteriores a ASIR.
+He realizado 500 horas de prácticas: 150 en PCGaming Center y 350 en el Colegio Fuensanta.
 
-## Conocimientos de informática
+## Actualmente aprendo
 
-- Instalación y configuración básica de Windows y Ubuntu Server.
-- Creación de máquinas virtuales con VirtualBox.
-- Configuración básica de redes con Cisco Packet Tracer.
-- Prácticas con Apache, SSH, DNS y LDAP.
-- Creación de páginas web sencillas con HTML, CSS y JavaScript.
-- Uso de WordPress y Divi.
-- Creación de scripts básicos con PowerShell.
-- Uso básico de Visual Studio Code.
-- Instalación de discos SSD y traslado de archivos.
+* Lenguajes de marcas y sistemas de gestión de información.
+* Implantación de sistemas operativos.
+* Gestión de bases de datos.
+* Fundamentos de hardware.
+* Redes informáticas.
+* Programación básica con Python.
 
+### Prácticas realizadas
 
-### Prácticas de sistemas y redes
+En PCGaming Center revisaba que los ordenadores funcionaran bien y colocaba componentes y periféricos, como teclados y ratones, para prepararlos para su venta.
 
-He realizado prácticas con Ubuntu Server, máquinas virtuales y configuración de redes. También he utilizado comandos y scripts sencillos para tareas de administración.
+En el Colegio Fuensanta revisaba iPads, ordenadores y el rack. También ayudaba con reparaciones de proyectores y aire acondicionado.
 
-### Página web con WordPress
+### Proyectos académicos
 
-Trabajé en una página web escolar con WordPress y Divi, organizando las secciones de las distintas etapas educativas.
+En este repositorio iré añadiendo ejercicios y prácticas que haga durante ASIR, relacionados con:
+
+- Lenguajes de marcas.
+- Bases de datos.
+- Sistemas operativos.
+- Redes.
+- Hardware.
+
+## Objetivo profesional
+
+Mi objetivo es trabajar en informática, seguir aprendiendo y mejorar mis conocimientos sobre sistemas, redes y mantenimiento de ordenadores.
+
+Quiero aplicar lo que aprendo en clase, ganar experiencia y aprender de otras personas que trabajen en el sector.
 
 ## Idiomas
 
-- **Español:** nativo.
-- **Inglés:** nivel A2 certificado. Sigo estudiando en una academia para mejorar.
+- Español: nativo.
+- Inglés: A2 certificado. Sigo estudiando en una academia.
 
-## Aficiones
+## Hobbies
 
-- Aprender programación y practicar con Visual Studio Code.
-- Crear páginas web.
-- Conocer los componentes de los ordenadores y cómo mejorarlos.
-- Los videojuegos.
-- El gimnasio, la calistenia y la natación.
+- Aprender a usar Python.
+- Conocer los componentes del PC.
+- Videojuegos.
+- Gimnasio.
+- Calistenia.
+
+## Contacto
+
+- Correo: benjamin.rubio100@gmail.com
+- Teléfono: +34 611204185
+- Localidad: Valencia
