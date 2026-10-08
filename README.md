@@ -29,11 +29,6 @@ Soy estudiante de primero de Administración de Sistemas Informáticos en Red. A
 - Uso básico de Visual Studio Code.
 - Instalación de discos SSD y traslado de archivos.
 
-## Proyectos de clase
-
-### BoostPC — Proyecto final de SMR
-
-Preparé un proyecto de una empresa de informática y su página web. La web tenía un catálogo, información de contacto y la ubicación del local. También trabajé en una propuesta de red, seguridad y copias de seguridad.
 
 ### Prácticas de sistemas y redes
 
