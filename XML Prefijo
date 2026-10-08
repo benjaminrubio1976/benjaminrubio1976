@@ -1,81 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<benjamin_rubio:curriculum xmlns:benjamin_rubio="urn:benjamin-rubio:curriculum">
-    <benjamin_rubio:datosPersonales>
-        <benjamin_rubio:nombre>Benjamin Rubio Troncoso</benjamin_rubio:nombre>
-        <benjamin_rubio:ubicacion>Valencia, España</benjamin_rubio:ubicacion>
-        <benjamin_rubio:telefono>Añadir teléfono</benjamin_rubio:telefono>
-        <benjamin_rubio:correo>Añadir correo</benjamin_rubio:correo>
-    </benjamin_rubio:datosPersonales>
+<benjamin_Javier_Rubio:curriculum
+    xmlns:benjamin_Javier_Rubio="urn:benjamin-javier-rubio:curriculum">
 
-    <benjamin_rubio:perfil>
-        Soy estudiante de primero de ASIR y antes he estudiado SMR.
-        Me interesa aprender más sobre sistemas, redes y mantenimiento
-        de ordenadores. Quiero practicar lo que aprendo en clase.
-    </benjamin_rubio:perfil>
+    <benjamin_Javier_Rubio:datos_personales>
+        <benjamin_Javier_Rubio:nombre>Benjamin Javier</benjamin_Javier_Rubio:nombre>
+        <benjamin_Javier_Rubio:apellidos>Rubio</benjamin_Javier_Rubio:apellidos>
+        <benjamin_Javier_Rubio:email>benjamin.rubio100@gmail.com</benjamin_Javier_Rubio:email>
+        <benjamin_Javier_Rubio:telefono>+34 611204185</benjamin_Javier_Rubio:telefono>
+        <benjamin_Javier_Rubio:localidad>Valencia</benjamin_Javier_Rubio:localidad>
+    </benjamin_Javier_Rubio:datos_personales>
 
-    <benjamin_rubio:formacion>
-        <benjamin_rubio:estudio>
-            <benjamin_rubio:nombre>Administración de Sistemas Informáticos en Red</benjamin_rubio:nombre>
-            <benjamin_rubio:nivel>Grado Superior</benjamin_rubio:nivel>
-            <benjamin_rubio:curso>1.º</benjamin_rubio:curso>
-            <benjamin_rubio:inicio>Septiembre de 2026</benjamin_rubio:inicio>
-            <benjamin_rubio:estado>En curso</benjamin_rubio:estado>
-        </benjamin_rubio:estudio>
-        <benjamin_rubio:estudio>
-            <benjamin_rubio:nombre>Sistemas Microinformáticos y Redes</benjamin_rubio:nombre>
-            <benjamin_rubio:periodo>Anterior a ASIR</benjamin_rubio:periodo>
-        </benjamin_rubio:estudio>
-    </benjamin_rubio:formacion>
+    <benjamin_Javier_Rubio:experiencia_profesional>
+        <benjamin_Javier_Rubio:experiencia>
+            <benjamin_Javier_Rubio:empresa>PCGaming Center</benjamin_Javier_Rubio:empresa>
+            <benjamin_Javier_Rubio:puesto>Alumno en prácticas de informática</benjamin_Javier_Rubio:puesto>
+            <benjamin_Javier_Rubio:inicio>2025-05-02</benjamin_Javier_Rubio:inicio>
+            <benjamin_Javier_Rubio:final>2025-06</benjamin_Javier_Rubio:final>
+            <benjamin_Javier_Rubio:horas>150</benjamin_Javier_Rubio:horas>
+            <benjamin_Javier_Rubio:tareas>Revisar que los ordenadores funcionaran bien y colocar componentes y periféricos, como teclados y ratones, para su venta.</benjamin_Javier_Rubio:tareas>
+        </benjamin_Javier_Rubio:experiencia>
+        <benjamin_Javier_Rubio:experiencia>
+            <benjamin_Javier_Rubio:empresa>Colegio Fuensanta</benjamin_Javier_Rubio:empresa>
+            <benjamin_Javier_Rubio:puesto>Alumno en prácticas de informática</benjamin_Javier_Rubio:puesto>
+            <benjamin_Javier_Rubio:inicio>2026-03-03</benjamin_Javier_Rubio:inicio>
+            <benjamin_Javier_Rubio:final>2026-06</benjamin_Javier_Rubio:final>
+            <benjamin_Javier_Rubio:horas>350</benjamin_Javier_Rubio:horas>
+            <benjamin_Javier_Rubio:tareas>Revisar iPads, ordenadores y el rack. También ayudar con reparaciones de aire acondicionado y proyectores.</benjamin_Javier_Rubio:tareas>
+        </benjamin_Javier_Rubio:experiencia>
+    </benjamin_Javier_Rubio:experiencia_profesional>
 
-    <benjamin_rubio:conocimientos>
-        <benjamin_rubio:conocimiento>Instalación básica de Windows y Ubuntu Server</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>Máquinas virtuales con VirtualBox</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>Redes básicas con Cisco Packet Tracer</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>Prácticas con Apache, SSH, DNS y LDAP</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>HTML, CSS y JavaScript básico</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>WordPress y Divi</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>Scripts básicos con PowerShell</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>Uso básico de Visual Studio Code</benjamin_rubio:conocimiento>
-        <benjamin_rubio:conocimiento>Instalación de discos SSD</benjamin_rubio:conocimiento>
-    </benjamin_rubio:conocimientos>
+    <benjamin_Javier_Rubio:formacion>
+        <benjamin_Javier_Rubio:formacion_academica>
+            <benjamin_Javier_Rubio:centro>CEAC</benjamin_Javier_Rubio:centro>
+            <benjamin_Javier_Rubio:titulacion>Administración de Sistemas Informáticos en Red</benjamin_Javier_Rubio:titulacion>
+            <benjamin_Javier_Rubio:inicio>2026-09</benjamin_Javier_Rubio:inicio>
+            <benjamin_Javier_Rubio:final>En curso, primero de ASIR</benjamin_Javier_Rubio:final>
+        </benjamin_Javier_Rubio:formacion_academica>
+        <benjamin_Javier_Rubio:formacion_academica>
+            <benjamin_Javier_Rubio:centro>AulaCampus</benjamin_Javier_Rubio:centro>
+            <benjamin_Javier_Rubio:titulacion>Sistemas Microinformáticos y Redes</benjamin_Javier_Rubio:titulacion>
+            <benjamin_Javier_Rubio:inicio>2024-09</benjamin_Javier_Rubio:inicio>
+            <benjamin_Javier_Rubio:final>2026-06</benjamin_Javier_Rubio:final>
+        </benjamin_Javier_Rubio:formacion_academica>
+    </benjamin_Javier_Rubio:formacion>
 
-    <benjamin_rubio:proyectos>
-        <benjamin_rubio:proyecto>
-            <benjamin_rubio:nombre>BoostPC</benjamin_rubio:nombre>
-            <benjamin_rubio:tipo>Proyecto final de SMR</benjamin_rubio:tipo>
-            <benjamin_rubio:descripcion>
-                Preparé un proyecto de una empresa de informática y su
-                página web, con catálogo y contacto. También incluí una
-                propuesta de red, seguridad y copias de seguridad.
-            </benjamin_rubio:descripcion>
-        </benjamin_rubio:proyecto>
-        <benjamin_rubio:proyecto>
-            <benjamin_rubio:nombre>Web escolar</benjamin_rubio:nombre>
-            <benjamin_rubio:tipo>Proyecto de clase</benjamin_rubio:tipo>
-            <benjamin_rubio:descripcion>
-                Trabajé en una página web con WordPress y Divi,
-                organizando las secciones de las etapas educativas.
-            </benjamin_rubio:descripcion>
-        </benjamin_rubio:proyecto>
-    </benjamin_rubio:proyectos>
+    <benjamin_Javier_Rubio:idiomas>
+        <benjamin_Javier_Rubio:idioma>
+            <benjamin_Javier_Rubio:nombre>Español</benjamin_Javier_Rubio:nombre>
+            <benjamin_Javier_Rubio:nivel>Nativo</benjamin_Javier_Rubio:nivel>
+        </benjamin_Javier_Rubio:idioma>
+        <benjamin_Javier_Rubio:idioma>
+            <benjamin_Javier_Rubio:nombre>Inglés</benjamin_Javier_Rubio:nombre>
+            <benjamin_Javier_Rubio:nivel>A2 certificado</benjamin_Javier_Rubio:nivel>
+        </benjamin_Javier_Rubio:idioma>
+    </benjamin_Javier_Rubio:idiomas>
 
-    <benjamin_rubio:idiomas>
-        <benjamin_rubio:idioma>
-            <benjamin_rubio:nombre>Español</benjamin_rubio:nombre>
-            <benjamin_rubio:nivel>Nativo</benjamin_rubio:nivel>
-        </benjamin_rubio:idioma>
-        <benjamin_rubio:idioma>
-            <benjamin_rubio:nombre>Inglés</benjamin_rubio:nombre>
-            <benjamin_rubio:nivel>A2 certificado</benjamin_rubio:nivel>
-            <benjamin_rubio:observacion>Estudio en una academia para mejorar.</benjamin_rubio:observacion>
-        </benjamin_rubio:idioma>
-    </benjamin_rubio:idiomas>
+    <benjamin_Javier_Rubio:hobbies>
+        <benjamin_Javier_Rubio:hobby>Aprender a usar Python</benjamin_Javier_Rubio:hobby>
+        <benjamin_Javier_Rubio:hobby>Conocer los componentes del PC</benjamin_Javier_Rubio:hobby>
+        <benjamin_Javier_Rubio:hobby>Videojuegos</benjamin_Javier_Rubio:hobby>
+        <benjamin_Javier_Rubio:hobby>Gimnasio</benjamin_Javier_Rubio:hobby>
+        <benjamin_Javier_Rubio:hobby>Calistenia</benjamin_Javier_Rubio:hobby>
+    </benjamin_Javier_Rubio:hobbies>
 
-    <benjamin_rubio:aficiones>
-        <benjamin_rubio:aficion>Aprender programación</benjamin_rubio:aficion>
-        <benjamin_rubio:aficion>Crear páginas web</benjamin_rubio:aficion>
-        <benjamin_rubio:aficion>Conocer los componentes de los ordenadores</benjamin_rubio:aficion>
-        <benjamin_rubio:aficion>Videojuegos</benjamin_rubio:aficion>
-        <benjamin_rubio:aficion>Gimnasio, calistenia y natación</benjamin_rubio:aficion>
-    </benjamin_rubio:aficiones>
-</benjamin_rubio:curriculum>
+</benjamin_Javier_Rubio:curriculum>
