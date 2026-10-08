@@ -1,16 +1,57 @@
-## Hi there 👋
+# Benjamin Rubio Troncoso
 
-<!--
-**benjaminrubio1976/benjaminrubio1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Estudiante de 1.º de ASIR**
 
-Here are some ideas to get you started:
+- Ubicación: Valencia
+- Teléfono: [añadir teléfono]
+- Correo electrónico: [añadir correo]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí
+
+Soy estudiante de primero de Administración de Sistemas Informáticos en Red. Antes he estudiado Sistemas Microinformáticos y Redes. Me interesa la informática, especialmente los sistemas, las redes y el mantenimiento de ordenadores. Quiero seguir aprendiendo y practicar lo que estudio en clase.
+
+## Formación
+
+- **Grado Superior en Administración de Sistemas Informáticos en Red (ASIR).**
+  Primer curso, en curso desde septiembre de 2026.
+- **Formación en Sistemas Microinformáticos y Redes (SMR).**
+  Estudios anteriores a ASIR.
+
+## Conocimientos de informática
+
+- Instalación y configuración básica de Windows y Ubuntu Server.
+- Creación de máquinas virtuales con VirtualBox.
+- Configuración básica de redes con Cisco Packet Tracer.
+- Prácticas con Apache, SSH, DNS y LDAP.
+- Creación de páginas web sencillas con HTML, CSS y JavaScript.
+- Uso de WordPress y Divi.
+- Creación de scripts básicos con PowerShell.
+- Uso básico de Visual Studio Code.
+- Instalación de discos SSD y traslado de archivos.
+
+## Proyectos de clase
+
+### BoostPC — Proyecto final de SMR
+
+Preparé un proyecto de una empresa de informática y su página web. La web tenía un catálogo, información de contacto y la ubicación del local. También trabajé en una propuesta de red, seguridad y copias de seguridad.
+
+### Prácticas de sistemas y redes
+
+He realizado prácticas con Ubuntu Server, máquinas virtuales y configuración de redes. También he utilizado comandos y scripts sencillos para tareas de administración.
+
+### Página web con WordPress
+
+Trabajé en una página web escolar con WordPress y Divi, organizando las secciones de las distintas etapas educativas.
+
+## Idiomas
+
+- **Español:** nativo.
+- **Inglés:** nivel A2 certificado. Sigo estudiando en una academia para mejorar.
+
+## Aficiones
+
+- Aprender programación y practicar con Visual Studio Code.
+- Crear páginas web.
+- Conocer los componentes de los ordenadores y cómo mejorarlos.
+- Los videojuegos.
+- El gimnasio, la calistenia y la natación.
