@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curriculum>
+    <datos_personales>
+        <nombre>Benjamin Javier</nombre>
+        <apellidos>Rubio</apellidos>
+        <email>benjamin.rubio100@gmail.com</email>
+    </datos_personales>
+
+    <formacion>
+        <formacion_academica>
+            <centro>CEAC</centro>
+            <titulacion>Administración de Sistemas Informáticos en Red</titulacion>
+            <inicio>2026</inicio>
+            <final>en curso</final>
+        </formacion_academica>
+    </formacion>
+
+    <idiomas>
+        <idioma>
+            <nombre>Español</nombre>
+            <nivel>Nativo</nivel>
+        </idioma>
+        <idioma>
+            <nombre>Inglés</nombre>
+            <nivel>A2</nivel>
+        </idioma>
+    </idiomas>
+
+    <hobbies>
+        <hobby>Aprender Python</hobby>
+        <hobby>Componentes del PC</hobby>
+        <hobby>Videojuegos</hobby>
+        <hobby>Gimnasio</hobby>
+        <hobby>Calistenia</hobby>
+    </hobbies>
+</curriculum>
