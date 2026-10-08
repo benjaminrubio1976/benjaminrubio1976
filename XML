@@ -1,63 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <curriculum>
-    <datosPersonales>
-        <nombre>Benjamin Rubio Troncoso</nombre>
-        <ubicacion>Valencia, España</ubicacion>
-        <telefono>Añadir teléfono</telefono>
-        <correo>Añadir correo</correo>
-    </datosPersonales>
+    <datos_personales>
+        <nombre>Benjamin Javier</nombre>
+        <apellidos>Rubio</apellidos>
+        <email>benjamin.rubio100@gmail.com</email>
+        <telefono>+34 611204185</telefono>
+        <localidad>Valencia</localidad>
+    </datos_personales>
 
-    <perfil>
-        Soy estudiante de primero de ASIR y antes he estudiado SMR.
-        Me interesa aprender más sobre sistemas, redes y mantenimiento
-        de ordenadores. Quiero poner en práctica lo que aprendo en clase.
-    </perfil>
+    <experiencia_profesional>
+        <experiencia>
+            <empresa>PCGaming Center</empresa>
+            <puesto>Alumno en prácticas de informática</puesto>
+            <inicio>2025-05-02</inicio>
+            <final>2025-06</final>
+            <horas>150</horas>
+            <tareas>Revisar que los ordenadores funcionaran bien y colocar componentes y periféricos, como teclados y ratones, para su venta.</tareas>
+        </experiencia>
+        <experiencia>
+            <empresa>Colegio Fuensanta</empresa>
+            <puesto>Alumno en prácticas de informática</puesto>
+            <inicio>2026-03-03</inicio>
+            <final>2026-06</final>
+            <horas>350</horas>
+            <tareas>Revisar iPads, ordenadores y el rack. También ayudar con reparaciones de aire acondicionado y proyectores.</tareas>
+        </experiencia>
+    </experiencia_profesional>
 
     <formacion>
-        <estudio>
-            <nombre>Administración de Sistemas Informáticos en Red</nombre>
-            <nivel>Grado Superior</nivel>
-            <curso>1.º</curso>
-            <inicio>Septiembre de 2026</inicio>
-            <estado>En curso</estado>
-        </estudio>
-        <estudio>
-            <nombre>Sistemas Microinformáticos y Redes</nombre>
-            <periodo>Anterior a ASIR</periodo>
-        </estudio>
+        <formacion_academica>
+            <centro>CEAC</centro>
+            <titulacion>Administración de Sistemas Informáticos en Red</titulacion>
+            <inicio>2026-09</inicio>
+            <final>En curso, primero de ASIR</final>
+        </formacion_academica>
+        <formacion_academica>
+            <centro>AulaCampus</centro>
+            <titulacion>Sistemas Microinformáticos y Redes</titulacion>
+            <inicio>2024-09</inicio>
+            <final>2026-06</final>
+        </formacion_academica>
     </formacion>
-
-    <conocimientos>
-        <conocimiento>Instalación básica de Windows y Ubuntu Server</conocimiento>
-        <conocimiento>Máquinas virtuales con VirtualBox</conocimiento>
-        <conocimiento>Redes básicas con Cisco Packet Tracer</conocimiento>
-        <conocimiento>Prácticas con Apache, SSH, DNS y LDAP</conocimiento>
-        <conocimiento>HTML, CSS y JavaScript básico</conocimiento>
-        <conocimiento>WordPress y Divi</conocimiento>
-        <conocimiento>Scripts básicos con PowerShell</conocimiento>
-        <conocimiento>Uso básico de Visual Studio Code</conocimiento>
-        <conocimiento>Instalación de discos SSD</conocimiento>
-    </conocimientos>
-
-    <proyectos>
-        <proyecto>
-            <nombre>BoostPC</nombre>
-            <tipo>Proyecto final de SMR</tipo>
-            <descripcion>
-                Preparé un proyecto de una empresa de informática y su
-                página web, con catálogo y contacto. También incluí una
-                propuesta de red, seguridad y copias de seguridad.
-            </descripcion>
-        </proyecto>
-        <proyecto>
-            <nombre>Web escolar</nombre>
-            <tipo>Proyecto de clase</tipo>
-            <descripcion>
-                Trabajé en una página web con WordPress y Divi,
-                organizando las secciones de las etapas educativas.
-            </descripcion>
-        </proyecto>
-    </proyectos>
 
     <idiomas>
         <idioma>
@@ -67,15 +50,14 @@
         <idioma>
             <nombre>Inglés</nombre>
             <nivel>A2 certificado</nivel>
-            <observacion>Estudio en una academia para mejorar.</observacion>
         </idioma>
     </idiomas>
 
-    <aficiones>
-        <aficion>Aprender programación</aficion>
-        <aficion>Crear páginas web</aficion>
-        <aficion>Conocer los componentes de los ordenadores</aficion>
-        <aficion>Videojuegos</aficion>
-        <aficion>Gimnasio, calistenia y natación</aficion>
-    </aficiones>
+    <hobbies>
+        <hobby>Aprender a usar Python</hobby>
+        <hobby>Conocer los componentes del PC</hobby>
+        <hobby>Videojuegos</hobby>
+        <hobby>Gimnasio</hobby>
+        <hobby>Calistenia</hobby>
+    </hobbies>
 </curriculum>
