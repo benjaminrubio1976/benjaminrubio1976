@@ -1,42 +1,41 @@
 {
-  "nombre": "Benjamin Rubio Troncoso",
-  "ubicacion": "Valencia, España",
-  "telefono": "[añadir teléfono]",
-  "correo": "[añadir correo]",
-  "perfil": "Soy estudiante de primero de ASIR y antes he estudiado SMR. Me interesa aprender más sobre sistemas, redes y mantenimiento de ordenadores. Busco una oportunidad para practicar lo que aprendo en clase.",
-  "formacion": [
+  "datos_personales": {
+    "nombre": "Benjamin Javier",
+    "apellidos": "Rubio",
+    "email": "benjamin.rubio100@gmail.com",
+    "telefono": "+34 611204185",
+    "localidad": "Valencia"
+  },
+  "experiencia_profesional": [
     {
-      "estudios": "Grado Superior en Administración de Sistemas Informáticos en Red",
-      "curso": "1.º",
-      "inicio": "Septiembre de 2026",
-      "estado": "En curso"
+      "empresa": "PCGaming Center",
+      "puesto": "Alumno en prácticas de informática",
+      "inicio": "2025-05-02",
+      "final": "2025-06",
+      "horas": 150,
+      "tareas": "Revisar que los ordenadores funcionaran bien y colocar componentes y periféricos, como teclados y ratones, para su venta."
     },
     {
-      "estudios": "Sistemas Microinformáticos y Redes",
-      "periodo": "Anterior a ASIR"
+      "empresa": "Colegio Fuensanta",
+      "puesto": "Alumno en prácticas de informática",
+      "inicio": "2026-03-03",
+      "final": "2026-06",
+      "horas": 350,
+      "tareas": "Revisar iPads, ordenadores y el rack. También ayudar con reparaciones de aire acondicionado y proyectores."
     }
   ],
-  "conocimientos": [
-    "Instalación básica de Windows y Ubuntu Server",
-    "Máquinas virtuales con VirtualBox",
-    "Configuración básica de redes con Cisco Packet Tracer",
-    "Prácticas con Apache, SSH, DNS y LDAP",
-    "Páginas web sencillas con HTML, CSS y JavaScript",
-    "WordPress y Divi",
-    "Scripts básicos con PowerShell",
-    "Uso básico de Visual Studio Code",
-    "Instalación de discos SSD"
-  ],
-  "proyectos": [
+  "formacion": [
     {
-      "nombre": "BoostPC",
-      "tipo": "Proyecto final de SMR",
-      "descripcion": "Proyecto de una empresa de informática con una página web, catálogo y contacto. También preparé una propuesta de red, seguridad y copias de seguridad."
+      "centro": "CEAC",
+      "titulacion": "Administración de Sistemas Informáticos en Red",
+      "inicio": "2026-09",
+      "final": "En curso, primero de ASIR"
     },
     {
-      "nombre": "Web escolar",
-      "tipo": "Proyecto de clase",
-      "descripcion": "Página web hecha con WordPress y Divi, con secciones para las distintas etapas educativas."
+      "centro": "AulaCampus",
+      "titulacion": "Sistemas Microinformáticos y Redes",
+      "inicio": "2024-09",
+      "final": "2026-06"
     }
   ],
   "idiomas": [
@@ -46,15 +45,14 @@
     },
     {
       "idioma": "Inglés",
-      "nivel": "A2 certificado",
-      "observacion": "Actualmente estudio en una academia para mejorar."
+      "nivel": "A2 certificado"
     }
   ],
-  "aficiones": [
-    "Aprender programación",
-    "Crear páginas web",
-    "Conocer y mejorar componentes de ordenadores",
+  "hobbies": [
+    "Aprender a usar Python",
+    "Conocer los componentes del PC",
     "Videojuegos",
-    "Gimnasio, calistenia y natación"
+    "Gimnasio",
+    "Calistenia"
   ]
 }
